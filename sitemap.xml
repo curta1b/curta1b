@@ -9,6 +9,26 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://curta1b.com.br/tablet/index.html"/>
   </url>
   <url>
+    <loc>http://curta1b.com.br/sinopse.html</loc>
+    <lastmod>2018-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://curta1b.com.br/personagens.html</loc>
+    <lastmod>2018-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://curta1b.com.br/p%C3%A1gina.html</loc>
+    <lastmod>2018-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://curta1b.com.br/phone/página.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://curta1b.com.br/tablet/página.html"/>
+  </url>
+  <url>
     <loc>http://curta1b.com.br/tablet/sem-t%C3%ADtulo-4.html</loc>
     <lastmod>2018-11-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,33 +43,19 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://curta1b.com.br/phone/sem-título-3.html"/>
   </url>
   <url>
-    <loc>http://curta1b.com.br/personagens.html</loc>
-    <lastmod>2018-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://curta1b.com.br/sinopse.html</loc>
-    <lastmod>2018-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://curta1b.com.br/p%C3%A1gina.html</loc>
-    <lastmod>2018-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://curta1b.com.br/phone/página.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://curta1b.com.br/tablet/página.html"/>
-  </url>
-  <url>
     <loc>http://curta1b.com.br/images/img_3948.jpg</loc>
     <lastmod>2018-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://curta1b.com.br/images/img_3951.jpg</loc>
+    <loc>http://curta1b.com.br/images/img_3943.jpg</loc>
+    <lastmod>2018-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://curta1b.com.br/images/cartaz%20curta.jpg</loc>
     <lastmod>2018-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,19 +67,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://curta1b.com.br/images/img_3945.jpg</loc>
-    <lastmod>2018-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://curta1b.com.br/images/cartaz%20curta431x609.jpg</loc>
-    <lastmod>2018-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://curta1b.com.br/images/cartaz%20curta.jpg</loc>
+    <loc>http://curta1b.com.br/images/img_3951.jpg</loc>
     <lastmod>2018-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -91,7 +85,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://curta1b.com.br/images/img_3943.jpg</loc>
+    <loc>http://curta1b.com.br/images/cartaz%20curta431x609.jpg</loc>
+    <lastmod>2018-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://curta1b.com.br/images/img_3945.jpg</loc>
     <lastmod>2018-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
