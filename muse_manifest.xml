@@ -1,0 +1,115 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="curta1b.com.br" resolutions="1x" timestamp="1542472417868">
+  <folder name="phone">
+    <folder name="css">
+      <file name="sem-t_tulo-4.css" crc="4060900817" ref="phone>sem-título-4"/>
+      <file name="p_gina.css" crc="4060900817" ref="phone>página"/>
+      <file name="index.css" crc="378106566" ref="phone>index"/>
+      <file name="sem-t_tulo-3.css" crc="4060900817" ref="phone>sem-título-3"/>
+      <file name="master_a-mestre.css" crc="4113124756" ref="phone>página:phone>sem-título-3:phone>index:phone>sem-título-4"/>
+    </folder>
+    <file name="index.html" crc="3982737132" seo="true" mt="1542415563472" redirect="true"/>
+    <file name="sem-título-3.html" crc="4189657826" seo="true" mt="1542415563478" redirect="true"/>
+    <file name="sem-título-4.html" crc="146334718" seo="true" mt="1542415563472" redirect="true"/>
+    <file name="página.html" crc="3963762197" seo="true" mt="1542415563472" redirect="true"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-mestre.css" crc="4112624463" ref="tablet>index:tablet>página:tablet>sem-título-4:tablet>sem-título-3"/>
+      <file name="index.css" crc="135218822" ref="tablet>index"/>
+      <file name="p_gina.css" crc="4239855513" ref="tablet>página"/>
+      <file name="sem-t_tulo-4.css" crc="3819614853" ref="tablet>sem-título-4"/>
+      <file name="sem-t_tulo-3.css" crc="481625535" ref="tablet>sem-título-3"/>
+    </folder>
+    <file name="index.html" crc="3966958219" seo="true" mt="1542415563475" redirect="true"/>
+    <file name="sem-título-3.html" crc="3968185252" seo="true" mt="1542415563477" redirect="true"/>
+    <file name="sem-título-4.html" crc="339226087" seo="true" mt="1542415563475" redirect="true"/>
+    <file name="página.html" crc="144782182" seo="true" mt="1542415563475" redirect="true"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:página:tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página:phone>index:phone>sem-título-3:phone>sem-título-4:phone>página:sinopse:personagens"/>
+    <file name="cartaz curta.jpg" crc="11920383" seo="true" ref="index"/>
+    <file name="u644-3.png" crc="464059356" ref="index:página:sinopse:personagens"/>
+    <file name="u693-4.png" crc="3839925292" ref="sinopse"/>
+    <file name="u611-4.png" crc="68316620" ref="sinopse"/>
+    <file name="u1282-4.png" crc="43467366" ref="index"/>
+    <file name="img_3949.jpg" crc="4217883211" seo="true" ref="tablet>sem-título-4"/>
+    <file name="u1175.png" crc="4094010602" ref="index:página:sinopse:personagens"/>
+    <file name="u1175-r.png" crc="3986960695" ref="index:página:sinopse:personagens"/>
+    <file name="u1175-m.png" crc="4094010602" ref="index:página:sinopse:personagens"/>
+    <file name="u1178.png" crc="425866406" ref="index:página:sinopse:personagens"/>
+    <file name="u1178-r.png" crc="3970149169" ref="index:página:sinopse:personagens"/>
+    <file name="u1178-m.png" crc="425866406" ref="index:página:sinopse:personagens"/>
+    <file name="u1164.png" crc="4041815009" ref="index:página:sinopse:personagens"/>
+    <file name="u1164-r.png" crc="200792991" ref="index:página:sinopse:personagens"/>
+    <file name="u1164-m.png" crc="4041815009" ref="index:página:sinopse:personagens"/>
+    <file name="u1779-12.png" crc="512086657" ref="personagens"/>
+    <file name="img_3951.jpg" crc="260808781" seo="true" ref="tablet>sem-título-4"/>
+    <file name="loading.gif" crc="3815509949" ref="tablet>sem-título-4"/>
+    <file name="img_3947.jpg" crc="4279378483" seo="true" ref="tablet>sem-título-4"/>
+    <file name="img_3948.jpg" crc="335595847" seo="true" ref="tablet>sem-título-4"/>
+    <file name="u2293-12.png" crc="4162046887" ref="personagens"/>
+    <file name="u2477-12.png" crc="225882922" ref="personagens"/>
+    <file name="img_3943.jpg" crc="3885481728" seo="true" ref="tablet>sem-título-4"/>
+    <file name="img_3944.jpg" crc="4063435559" seo="true" ref="tablet>sem-título-4"/>
+    <file name="img_3945.jpg" crc="197606257" seo="true" ref="tablet>sem-título-4"/>
+    <file name="u2685.png" crc="396427419" ref="tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página"/>
+    <file name="u2685-r.png" crc="469219760" ref="tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página"/>
+    <file name="u2685-m.png" crc="396427419" ref="tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página"/>
+    <file name="u2681.png" crc="300869708" ref="tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página"/>
+    <file name="u2681-r.png" crc="190473101" ref="tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página"/>
+    <file name="u2681-m.png" crc="300869708" ref="tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página"/>
+    <file name="u2694.png" crc="280747753" ref="tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página"/>
+    <file name="u2694-r.png" crc="396338524" ref="tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página"/>
+    <file name="u2694-m.png" crc="280747753" ref="tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página"/>
+    <file name="u2751-4.png" crc="335292790" ref="tablet>index"/>
+    <file name="cartaz curta431x609.jpg" crc="78315667" seo="true" ref="tablet>index"/>
+    <file name="u2755-4.png" crc="3839925292" ref="tablet>sem-título-3"/>
+    <file name="u2754-4.png" crc="73931637" ref="tablet>sem-título-3"/>
+    <file name="u2760-14.png" crc="4028683932" ref="tablet>sem-título-4"/>
+    <file name="u2761-12.png" crc="170326575" ref="tablet>sem-título-4"/>
+    <file name="u2830-12.png" crc="432802999" ref="tablet>sem-título-4"/>
+    <file name="img_3959-crop-u2831.jpg" crc="3917662813" ref="tablet>sem-título-4"/>
+    <file name="u2833-12.png" crc="170850083" ref="tablet>sem-título-4"/>
+    <file name="u3443.png" crc="132542784" ref="phone>index:phone>sem-título-3:phone>sem-título-4:phone>página"/>
+    <file name="u3443-r.png" crc="387602633" ref="phone>index:phone>sem-título-3:phone>sem-título-4:phone>página"/>
+    <file name="u3443-m.png" crc="132542784" ref="phone>index:phone>sem-título-3:phone>sem-título-4:phone>página"/>
+    <file name="u3449.png" crc="4281273985" ref="phone>index:phone>sem-título-3:phone>sem-título-4:phone>página"/>
+    <file name="u3449-r.png" crc="3925421052" ref="phone>index:phone>sem-título-3:phone>sem-título-4:phone>página"/>
+    <file name="u3449-m.png" crc="4281273985" ref="phone>index:phone>sem-título-3:phone>sem-título-4:phone>página"/>
+    <file name="u3455.png" crc="4261855553" ref="phone>index:phone>sem-título-3:phone>sem-título-4:phone>página"/>
+    <file name="u3455-r.png" crc="4236071289" ref="phone>index:phone>sem-título-3:phone>sem-título-4:phone>página"/>
+    <file name="u3455-m.png" crc="4261855553" ref="phone>index:phone>sem-título-3:phone>sem-título-4:phone>página"/>
+    <file name="u3435-3.png" crc="3966950751" ref="phone>index:phone>sem-título-3:phone>sem-título-4:phone>página"/>
+    <file name="u1763-19.png" crc="3944824429" ref="personagens"/>
+    <file name="img_3948-crop-u3527.jpg" crc="359358889" ref="personagens"/>
+    <file name="img_3949-crop-u3552.jpg" crc="452761715" ref="personagens"/>
+    <file name="img_3943-crop-u3516.jpg" crc="22323202" ref="personagens"/>
+    <file name="img_3960-crop-u3535.jpg" crc="3944533901" ref="personagens"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="p_gina.css" crc="4029441020" ref="página"/>
+    <file name="index.css" crc="135652992" ref="index"/>
+    <file name="master_a-mestre.css" crc="4279424899" ref="index:página:sinopse:personagens"/>
+    <file name="sinopse.css" crc="511225012" ref="sinopse"/>
+    <file name="personagens.css" crc="534157246" ref="personagens"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:página:tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página:phone>index:phone>sem-título-3:phone>sem-título-4:phone>página:sinopse:personagens"/>
+    <file name="museutils.js" crc="163421577" ref="index:página:tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página:phone>index:phone>sem-título-3:phone>sem-título-4:phone>página:sinopse:personagens"/>
+    <file name="whatinput.js" crc="86476730" ref="index:página:tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página:phone>index:phone>sem-título-3:phone>sem-título-4:phone>página:sinopse:personagens"/>
+    <file name="museconfig.js" crc="36584860" ref="index:página:tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página:phone>index:phone>sem-título-3:phone>sem-título-4:phone>página:sinopse:personagens"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:página:tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página:phone>index:phone>sem-título-3:phone>sem-título-4:phone>página:sinopse:personagens"/>
+    <file name="require.js" crc="244322403" ref="index:página:tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página:phone>index:phone>sem-título-3:phone>sem-título-4:phone>página:sinopse:personagens"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:página:tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página:phone>index:phone>sem-título-3:phone>sem-título-4:phone>página:sinopse:personagens"/>
+    <file name="html5shiv.js" crc="4241844378" ref="página:index:tablet>index:tablet>sem-título-3:tablet>sem-título-4:tablet>página:phone>index:phone>sem-título-3:phone>sem-título-4:phone>página:sinopse:personagens"/>
+    <file name="webpro.js" crc="3848665353" ref="tablet>sem-título-4"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="tablet>sem-título-4"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="tablet>sem-título-4"/>
+    <file name="touchswipe.js" crc="404375771" ref="tablet>sem-título-4"/>
+  </folder>
+  <file name="index.html" crc="4229164955" seo="true" mt="1542415563474" redirect="true"/>
+  <file name="página.html" crc="206364086" seo="true" mt="1542415563474" redirect="true"/>
+  <file name="sinopse.html" crc="245361273" seo="true" mt="1542415563479" redirect="true"/>
+  <file name="personagens.html" crc="473759834" seo="true" mt="1542472411976" redirect="true"/>
+</manifest>
